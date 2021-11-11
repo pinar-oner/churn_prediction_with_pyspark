@@ -1,0 +1,2 @@
+# churn_prediction_with_pyspark
+Business Problem: The objective is to build a machine learning model to predict the customers that will leave the company. Dataset Story:      Comprises of 10.000 observations and 12 variables.     Independent variables include information on customers.     Dependent variable (exited) indicates the churn situation of the customer, in other words; represents whether the customer left the company (bank) or not.
